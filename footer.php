@@ -93,7 +93,11 @@
             </div>
         </div>
     </div>
-</footer><!--End Footer-->
+</footer><!--End Footer
+user: piramito
+password: !WiL25fA6ufy
+host: https://aban.pws-dns.net:2083/
+-->
 <?php wp_footer() ?>
 </body>
 </html>
